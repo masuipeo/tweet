@@ -20,7 +20,7 @@ class Tweet
 
     public function tweet($value)
     {
-        $result = $this->oauth->get(
+        $result = $this->oauth->post(
             "statuses/update",
             ["status" => $value]
         );
