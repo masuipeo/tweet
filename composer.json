@@ -1,0 +1,28 @@
+{
+    "name": "masuipeo/tweet",
+    "description": "Simple Twitter Client. This package can only tweet string.",
+    "keywords": ["twitter", "api", "simple", "tweet"],
+    "type": "library",
+    "homepage": "https://github.com/masuipeo/tweet",
+    "require": {
+        "abraham/twitteroauth": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "masuipeo",
+            "email": "info@masuipeo.com",
+            "homepage": "https://masuipeo.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/masuipeo/tweet",
+        "issues": "https://github.com/masuipeo/tweet/issues"
+    },
+    "autoload": {
+        "psr-4": {
+            "Masuipeo\\Tweet\\": "src"
+        }
+    }
+}
