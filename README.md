@@ -25,7 +25,8 @@ $ composer require masuipeo/tweet
 
 2. Make a PHP script.
 
-To fill key and tweet contents.
+To fill key and tweet contents in below file.
+And save this file as tweet.php.
 
 ```php tweet.php
 <?php

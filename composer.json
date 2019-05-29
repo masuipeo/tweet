@@ -1,6 +1,7 @@
 {
     "name": "masuipeo/tweet",
     "description": "Simple Twitter Client. This package can only tweet string.",
+    "version": "1.0.0",
     "keywords": ["twitter", "api", "simple", "tweet"],
     "type": "library",
     "homepage": "https://github.com/masuipeo/tweet",
