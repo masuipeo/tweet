@@ -7,9 +7,11 @@ This package can tweet string only.
 0. Get Twitter key and tokens.
 
 To use Twitter API, you must get Twitter key and tokens.
+
 https://apps.twitter.com/
+
 If you want, you can use the below sample for "Describe in your own words what you are building".
-I do not guarantee if your application does not pass.
+But I do NOT guarantee if your application does not pass.
 
 This package need the following keys and tokens.
 - Consumer API keys
