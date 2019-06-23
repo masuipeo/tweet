@@ -1,6 +1,6 @@
 # Simple Twitter Client
 
-This package can only tweet string.
+This package can tweet string only.
 
 ## Usage
 
@@ -8,6 +8,8 @@ This package can only tweet string.
 
 To use Twitter API, you must get Twitter key and tokens.
 https://apps.twitter.com/
+If you want, you can use the below sample for "Describe in your own words what you are building".
+I do not guarantee if your application does not pass.
 
 This package need the following keys and tokens.
 - Consumer API keys
@@ -55,3 +57,19 @@ if ($twitter->tweet("Hello, Twitter.")) {
 ```sh
 $ php tweet.php
 ```
+
+## The sample for "Describe in your own words what you are building"
+
+> 1. I'm using Twitter's API to make bot which tweet my contents.
+> I want to increase access to my website.
+> By tweeting regularly, I would like to raise awareness of my website against followers.
+> 
+> 2. I plan to count the tweets that have been retweeted or liked.
+> It is only for private use.
+> 
+> 3. Yes, I will use only Tweet bot.
+> I won't interact with Twitter users or their content.
+> 
+> 4. I use only tweet my original contents by bot.
+> And I will use Twitter's API for private.
+> So I don't display Twitter data to users.
