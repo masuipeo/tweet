@@ -60,18 +60,31 @@ if ($twitter->tweet("Hello, Twitter.")) {
 $ php tweet.php
 ```
 
-## The sample for "Describe in your own words what you are building"
+## The sample for "How will you use the Twitter API or Twitter data?"
 
-> 1. I'm using Twitter's API to make bot which tweet my contents.
+1. In your words
+
+> I'm using Twitter's API to make bot which tweet my contents.
 > I want to increase access to my website.
 > By tweeting regularly, I would like to raise awareness of my website against followers.
-> 
-> 2. I plan to count the tweets that have been retweeted or liked.
-> It is only for private use.
-> 
-> 3. Yes, I will use only Tweet bot.
+> So, I use only tweet my original contents by bot.
+
+2. Are you planning to analyze Twitter data?
+
+> No
+
+3. Will your app use Tweet, Retweet, like, follow, or Direct Message functionality?
+
+> Yes
+
+> I will use only Tweet bot.
 > I won't interact with Twitter users or their content.
-> 
-> 4. I use only tweet my original contents by bot.
-> And I will use Twitter's API for private.
-> So I don't display Twitter data to users.
+> So, I use only tweet my original contents by bot.
+
+4. Do you plan to display Tweets or aggregate data about Twitter content outside of Twitter?
+
+> No
+
+5. Will your product, service or analysis make Twitter content or derived information available to a government entity?
+
+> No
